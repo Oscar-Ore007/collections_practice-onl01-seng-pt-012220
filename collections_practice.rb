@@ -11,7 +11,7 @@ array.sort do |a,b|
 end
 end 
 
-def sort_array_char_count(array)
+def sort_array_char_count(["dogs,"cat", "Horses"])) 
 array.sort do |a,b| 
   a <=> b
 end
