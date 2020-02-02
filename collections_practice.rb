@@ -24,5 +24,4 @@ array.sort do |a, b|
 end
 array = ["blake", "ashley", "scott"]
  
-array.sort
 end 
