@@ -17,7 +17,7 @@ def sort_array_char_count(array)
  end
 end 
 
-array = ["blake", "ashley", "scott"]
+
 def swap_elements(array)
  if a == b
     0
