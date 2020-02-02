@@ -24,5 +24,5 @@ array.sort do |a, b|
 end
 array = ["blake", "ashley", "scott"]
  
-dishes.sort
+array.sort
 end 
