@@ -19,6 +19,7 @@ end
 
 array = ["blake", "ashley", "scott"]
 def swap_elements(array)
-  
-  
+  array.sort do |a, b|
+    a <=> b
+end   
 end 
