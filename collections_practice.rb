@@ -12,7 +12,7 @@ end
 end 
 
 def sort_array_char_count(array) 
- array.sort do |a,b| 
+ array.sort 
   a <=> b
  end
 end 
