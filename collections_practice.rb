@@ -30,5 +30,5 @@ end
 def kesha_maker(array) 
   array.collection do |element| 
     element[2] = $ 
-end 
+ end 
 end 
